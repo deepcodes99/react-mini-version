@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Deepanshu_portfolio.github.io/static/css/main.a8f593ae.css",
+    "main.js": "/Deepanshu_portfolio.github.io/static/js/main.42d58213.js",
+    "static/media/me.png": "/Deepanshu_portfolio.github.io/static/media/me.0c6418e43b7f80216dfb.png",
+    "static/media/award.png": "/Deepanshu_portfolio.github.io/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/Deepanshu_portfolio.github.io/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/email.png": "/Deepanshu_portfolio.github.io/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/sun.png": "/Deepanshu_portfolio.github.io/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/phone.png": "/Deepanshu_portfolio.github.io/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/Deepanshu_portfolio.github.io/static/media/moon.3bea3d398a25611d421b.png",
+    "index.html": "/Deepanshu_portfolio.github.io/index.html",
+    "main.a8f593ae.css.map": "/Deepanshu_portfolio.github.io/static/css/main.a8f593ae.css.map",
+    "main.42d58213.js.map": "/Deepanshu_portfolio.github.io/static/js/main.42d58213.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8f593ae.css",
+    "static/js/main.42d58213.js"
+  ]
+}
